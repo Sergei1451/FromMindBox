@@ -1,0 +1,32 @@
+create database TestDB
+use testDB
+create table Products
+(Id int primary key, Name nvarchar(50))
+insert into Products values
+(1, 'name_of_products_1'),
+(2, 'name_of_products_2'),
+(3, 'name_of_products_3'),
+(4, 'name_of_products_4'),
+(5, 'name_of_products_5')
+create table Categories
+(Id int primary key, Categories_Name nvarchar(50))
+insert into Categories values
+(1, 'Name_of_Category_1'),
+(2, 'Name_of_Category_2'),
+(3, 'Name_of_Category_3')
+create table ProductCategories (
+ProductId int foreign key references Products(Id),
+CategoryId int foreign key references Categories(Id),
+primary key (ProductId, CategoryId)
+);
+insert into ProductCategories values
+(1, 1),
+(2, 2),
+(3, 3),
+(4, 1)
+select p."Name", c."Categories_Name"
+from Products p
+left join ProductCategories PC
+on p.Id = PC.ProductId
+left join Categories c
+on PC.CategoryId = c.Id
