@@ -1,0 +1,12 @@
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\bin\Debug\net6.0\ShapeCalculatorLibrary.deps.json
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\bin\Debug\net6.0\ShapeCalculatorLibrary.dll
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\bin\Debug\net6.0\ref\ShapeCalculatorLibrary.dll
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\bin\Debug\net6.0\ShapeCalculatorLibrary.pdb
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Debug\net6.0\ShapeCalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Debug\net6.0\ShapeCalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Debug\net6.0\ShapeCalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Debug\net6.0\ShapeCalculatorLibrary.AssemblyInfo.cs
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Debug\net6.0\ShapeCalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Debug\net6.0\ShapeCalculatorLibrary.dll
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Debug\net6.0\ref\ShapeCalculatorLibrary.dll
+C:\Users\1\source\repos\ShapeCalculatorLibrary\ShapeCalculatorLibrary\obj\Debug\net6.0\ShapeCalculatorLibrary.pdb

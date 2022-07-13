@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "676b47a4-90da-48d5-bae5-abfe007e4a08": {
+      "ProjectGuid": "676b47a4-90da-48d5-bae5-abfe007e4a08",
+      "DisplayName": "ShapeCalculatorLibrary",
+      "ColorIndex": 0
+    },
+    "961b754d-16ae-42c7-b371-6affb5360948": {
+      "ProjectGuid": "961b754d-16ae-42c7-b371-6affb5360948",
+      "DisplayName": "Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
